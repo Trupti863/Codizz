@@ -1,1 +1,1 @@
-# Codizz
+Expense tracker
